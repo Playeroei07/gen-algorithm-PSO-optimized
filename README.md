@@ -1,5 +1,5 @@
 # gen-algorithm-string-matcher-enhanced
-This project simulates the process of natural selection (Darwinian Theory) to match a target word, but elevates the search for optimal hyperparameters by replacing Grid Search with **Particle Swarm Optimization (PSO)**. 
+This project simulates the process of natural selection (Darwinian Theory) to match a target word [(Check here for the original project)](https://github.com/Playeroei07/gen-algorithm-string-matcher), but elevates the search for optimal hyperparameters by replacing Grid Search with **Particle Swarm Optimization (PSO)**. 
 
 PSO acts as a meta-optimizer, finding the best combination of **Population Size**, **Mutation Rate**, and **Crossover Probability** in a highly efficient manner.
 
